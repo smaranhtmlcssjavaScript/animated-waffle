@@ -1,0 +1,17 @@
+.anchor {
+    background-color:white;
+    font-size:25px;
+    border-radius:10px;
+    color:black;
+    background-size:20px;
+}
+.heading {
+    font-size:35px;
+    border-radius:5px
+}
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    border: 10px solid grey;
+    margin-top:100px;
+}

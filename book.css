@@ -1,0 +1,14 @@
+.anchor {
+    background-color:white;
+    font-size:25px;
+    border-radius:10px;
+    color:black;
+    background-size:20px;
+}
+body {
+    background-color:aquamarine;
+}
+.heading {
+    font-size:35px;
+    border-radius:5px
+}
